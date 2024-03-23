@@ -1,4 +1,4 @@
-#Amazon Prime Movies and TV Shows PowerBI Dashboard
+<b>Amazon Prime Movies and TV Shows PowerBI Dashboard</b>
 This repository contains a PowerBI Dashboard analyzing movies and TV shows available on Amazon Prime. The dashboard provides insights into various aspects of the content available on the platform, such as ratings, genres, release years, and more.
 
 
